@@ -1,6 +1,6 @@
 # Role-Based Authorization System
 
-A comprehensive React-based authorization system with role-based access control, protected routes, and permission-based component rendering.
+A comprehensive React-based authorization system with role-based access control, protected routes, and permission-based component rendering..
 
 ## Features
 
