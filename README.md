@@ -10,7 +10,7 @@ A comprehensive React-based authorization system with role-based access control,
 - **Guest Role**: Limited access for viewing content only
 
 ### 🛡️ Protected Routes
-- Automatic route protection based on user roles and permissions
+- Automatic route protection based on user roles and permissions.
 - Redirect to login page for unauthenticated users
 - Unauthorized access handling with custom error pages
 
